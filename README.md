@@ -1,1 +1,1 @@
-# G9-Compatible-KVM-Switch
+# Samsung G9-Compatible KVM Switch
