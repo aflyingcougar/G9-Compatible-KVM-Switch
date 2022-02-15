@@ -18,7 +18,7 @@ This repo will serve as a means to collect my thoughts, research, and knowledge 
 - Monitor
 	- Samsung Odyssey G9
 		- Target Resolution: 5120x1440
-		- Target Refresh Rate: 120/240 Hz
+		- Target Refresh Rate: 120 Hz
 		- DisplayPort 1.4 (HBR3)
 - Computers
 	- Gaming Desktop
@@ -26,15 +26,20 @@ This repo will serve as a means to collect my thoughts, research, and knowledge 
 		- RTX 3080 (DisplayPort 1.4a)
 		- 4 x USB 3.2 Gen 2 ports (10 Gb/s)
 
-	- MacBook Pro (16-inch, 2019)
+	- MacBook Pro (16-inch, 2019, 2.6 GHz)
 		- 4 x Thunderbolt 3 (USB-C) ports
 			- Charging (96W USB-C Power Adapter)
-			- DisplayPort 1.2 (HBR2)
+			- DisplayPort ??
 			- USB 3.1 Gen 2 (10 Gb/s)
 
 	- Peripherals
 		- USB Keyboard
 		- USB Mouse
+
+### **Notes**
+- When using a USB-C to DisplayPort cable, MacBook Pro is confirmed to negotiate 5120x1440 @ 120 Hz!
+	- Does the MBP use Thunderbolt controller when operating at 5120x1440 @ 120 Hz?
+	- System report contains the following line under Hardware > Graphics/Displays: *Connection Type: Thunderbolt/DisplayPort*
 			
 
 ## **Minimum Desired Features**
