@@ -8,11 +8,11 @@ This repo will serve as a means to collect my thoughts, research, and knowledge 
 ## **Repository Structure**
 | Directory | Description |
 | --------- | ----------- |
-| [Block Diagrams] | Conceptual diagrams to aid with preliminary design |
-| [Datasheets] | PDFs datasheets for all design components |
-| [Design] | Place to store all engineering project folders (ECAD) |
-| [Documentation] | Contains all generated documentation for the KVM switch design |
-| [Reference] | Reference guides, industry standards, etc. |
+| [Block Diagrams](https://github.com/aflyingcougar/G9-Compatible-KVM-Switch/tree/Block%20Diagrams) | Conceptual diagrams to aid with preliminary design |
+| [Datasheets](https://github.com/aflyingcougar/G9-Compatible-KVM-Switch/tree/Datasheets) | PDFs datasheets for all design components |
+| [Design](https://github.com/aflyingcougar/G9-Compatible-KVM-Switch/tree/Design) | Place to store all engineering project folders (ECAD) |
+| [Documentation](https://github.com/aflyingcougar/G9-Compatible-KVM-Switch/tree/Documentation) | Contains all generated documentation for the KVM switch design |
+| [Reference](https://github.com/aflyingcougar/G9-Compatible-KVM-Switch/tree/Reference) | Reference guides, industry standards, etc. |
 
 ## **Home-Office Hardware**
 - Monitor
