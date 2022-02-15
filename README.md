@@ -39,7 +39,9 @@ This repo will serve as a means to collect my thoughts, research, and knowledge 
 ### **Notes**
 - When using a USB-C to DisplayPort cable, MacBook Pro is confirmed to negotiate 5120x1440 @ 120 Hz!
 	- Does the MBP use Thunderbolt controller when operating at 5120x1440 @ 120 Hz?
-	- System report contains the following line under Hardware > Graphics/Displays: *Connection Type: Thunderbolt/DisplayPort*
+		- System report contains the following line under Hardware > Graphics/Displays: *Connection Type: Thunderbolt/DisplayPort*
+		- System report shows USB 3.1 bus 5 Gb/s link to Targus Dock (DisplayLink)
+		- **Haven't found documented proof, but empirical results seem to indicate that the MBP is indeed capable of TB3 with USB4 and DP 1.4 at 5120x1440 @ 120Hz.**
 			
 
 ## **Minimum Desired Features**
